@@ -11,7 +11,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="../bootstrap-3.2.0-dist/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="../bootstrap-3.2.0-dist/css/weather-icons.css">
-    <link rel="stylesheet" type="text/css" href="../bootstrap-3.2.0-dist/css/myStyle.css">
+    <link rel="stylesheet" type="text/css" href="../cloudProject/css/myStyle.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
